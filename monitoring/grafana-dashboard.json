@@ -1,0 +1,1 @@
+{"title":"Telecom Data Pipeline","panels":[{"title":"Pipeline Up","type":"timeseries","targets":[{"expr":"telecom_pipeline_up"}]}]}
